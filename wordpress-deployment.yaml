@@ -81,7 +81,6 @@ spec:
             secretKeyRef:
               name: dbpassword
               key: dbpassword
-          #value: oOC078n3kL9E9vGh
         ports:
         - containerPort: 80
           name: wordpress
