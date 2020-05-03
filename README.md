@@ -1,10 +1,15 @@
 # gcpmonitoring
 
 
-Create a secret to hold you database password
+Using cloud shell download this repo and run the dashboards.sh script to install the SRE dashbaord in Cloud Operations. Remember to replace the sample project name with your own before you run the script. 
 ```console
-kubectl create secret generic dbpassword --from-literal=dbpassword='[YOUR DB PASSWORD HERE]' -n wordpress
+git clone https://github.com/bkauf/gcpmonitoring.git
+cd gcpmonitoring
 ```
 
-You will also need to edit you database IP 
+Change the sample project name in the dashboards.sh script.
+```console
+./dashboards.sh
+```
+
 
