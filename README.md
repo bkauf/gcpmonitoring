@@ -1,4 +1,4 @@
-# Istio Dashboard or Google Cloud Operations 
+# Istio & Infrastrucutre Dashboard for Kuberentes in Google Cloud Operations 
 ![Dashboard Image](sre-dashboard.png)
 
 Using cloud shell download this repo and run the dashboards.sh script to install the SRE dashbaord in Cloud Operations. Remember to replace the sample project name with your own before you run the script. 
