@@ -1,4 +1,4 @@
-export PROJECT_ID=bkauf-monitoring
+export PROJECT_ID=projectnamehere
 ACCESS_TOKEN=`gcloud auth print-access-token`
 
 #Create Dashboard
