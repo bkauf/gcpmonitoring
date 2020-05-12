@@ -6,7 +6,7 @@ Using cloud shell download this repo and run the dashboards.sh script to install
 git clone https://github.com/bkauf/gcpmonitoring.git
 cd gcpmonitoring
 ```
-Change the project name varaible in dashboard.sh
+Change the PROJECT_ID varaible in dashboard.sh
 ```console
 export PROJECT_ID=[yourproject]
 ```
