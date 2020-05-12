@@ -11,7 +11,7 @@ Change the PROJECT_ID varaible in dashboard.sh
 export PROJECT_ID=[yourproject]
 ```
 
-Change the sample project name in the dashboards.sh script.
+Run the dashboards.sh script and the SRE dashboard will be generated in the Cloud Operations Dashboards list.
 ```console
 ./dashboards.sh
 ```
